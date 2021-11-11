@@ -1,0 +1,6 @@
+2021-11-10 12:55:45.441 [main] INFO  Demo.DemoLog - Started Test
+2021-11-10 12:55:50.868 [main] ERROR Demo.DemoLog - Error message
+2021-11-10 12:55:51.740 [main] TRACE Demo.DemoLog - Tracking
+2021-11-10 12:55:52.091 [main] TRACE Demo.DemoLog - Tracking
+2021-11-10 12:55:52.092 [main] TRACE Demo.DemoLog - Tracking
+2021-11-10 12:55:52.093 [main] ERROR Demo.DemoLog - Error message
